@@ -12,7 +12,7 @@ public class Main {
         // String name = scanner.nextLine();
 
         // Print greeting message
-        System.out.println("Hello, Nathiya ! Welcome to Java Programming.");
+        System.out.println("Hello, Nathiya ! Welcome to Java Programming.....");
 
         // Close scanner
         scanner.close();
