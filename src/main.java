@@ -8,11 +8,11 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         // Ask user for name
-        System.out.print("Enter your name: ");
-        String name = scanner.nextLine();
+        // System.out.print("Enter your name: ");
+        // String name = scanner.nextLine();
 
         // Print greeting message
-        System.out.println("Hello, " + name + "! Welcome to Java Programming.");
+        System.out.println("Hello, Nathiya ! Welcome to Java Programming.");
 
         // Close scanner
         scanner.close();
